@@ -1,0 +1,28 @@
+.container-md {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container-md h2 {
+  color: white;
+  flex-direction: column;
+}
+
+.container-md p {
+  margin-top: 10vh;
+  color: white;
+  font-size: 20px;
+  margin-top: 6vh;
+}
+
+#skill .card {
+  background: white;
+  border-radius: 20px;
+}
+
+.card img {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}

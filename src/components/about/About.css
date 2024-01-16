@@ -1,0 +1,23 @@
+.container-md {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container-md p {
+  margin-top: 10vh;
+  color: white;
+  font-size: 20px;
+  margin-top: 6vh;
+}
+
+.container-md h2 {
+  color: white;
+  flex-direction: column;
+}
+
+.about-img {
+  width: 600px;
+  margin-top: -11vh;
+}
